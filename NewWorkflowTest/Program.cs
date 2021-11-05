@@ -16,6 +16,7 @@ namespace NewWorkflowTest
         {
             Console.WriteLine("Säg hej!");
             //testar om workflow går igång
+            //test igen
         }
     }
 }
