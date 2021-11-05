@@ -8,6 +8,13 @@ namespace NewWorkflowTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Testar");
+            
+        }
+
+
+        public static void Hello()
+        {
+            Console.WriteLine("Säg hej!");
         }
     }
 }
