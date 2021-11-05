@@ -15,6 +15,7 @@ namespace NewWorkflowTest
         public static void Hello()
         {
             Console.WriteLine("Säg hej!");
+            //testar om workflow går igång
         }
     }
 }
