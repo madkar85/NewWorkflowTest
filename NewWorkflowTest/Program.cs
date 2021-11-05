@@ -8,7 +8,7 @@ namespace NewWorkflowTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Testar");
-            
+            Hello();
         }
 
 
